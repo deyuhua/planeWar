@@ -5,7 +5,7 @@
 2. 采用模块化和MVC设计模式
 3. Javascript异步流程控制和Lazy加载
 
-## 目录结构说明
+## 目录结构说明 
 - planeWar
     + images (游戏图片)
     + js (游戏主要代码逻辑)
