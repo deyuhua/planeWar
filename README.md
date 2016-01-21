@@ -17,9 +17,10 @@
 
 ## 运行游戏
 [开始飞机大战]( http://htmlpreview.github.com/?https://github.com/deyuhua/planeWar/blob/master/index.html)
+首次加载游戏较慢，请耐性等待。如果长时间没加载成功，直接按F5重新加载。谢谢！
 
 ## 游戏运行截图
-
+![飞机大战](./shotscreen.png)
 
 ## 兼容性测试
 分别在windows和linux上面的最新版chrome和firefox上测试过。
