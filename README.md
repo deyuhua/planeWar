@@ -11,11 +11,18 @@
     + js (游戏主要代码逻辑)
         * imgSource.js (游戏图片的Url)
         * plane.js (游戏代码)
+    + android
+        * planeWar.apk (安卓版本的webapp)
     + index.html (游戏主页)
 
 ## 运行游戏
-[开始飞机大战](./index.html)
+[开始飞机大战]( http://htmlpreview.github.com/?https://github.com/deyuhua/planeWar/blob/master/index.html)
+
+## 游戏运行截图
+
 
 ## 兼容性测试
+分别在windows和linux上面的最新版chrome和firefox上测试过。
+安卓版本的webapp在android 4.1上面测试过。
 
 
